@@ -1,0 +1,11 @@
+C:\Users\shawk\source\repos\ZombiesMidterm\ZombiesMidterm\bin\Debug\ZombiesMidterm.exe.config
+C:\Users\shawk\source\repos\ZombiesMidterm\ZombiesMidterm\bin\Debug\ZombiesMidterm.exe
+C:\Users\shawk\source\repos\ZombiesMidterm\ZombiesMidterm\bin\Debug\ZombiesMidterm.pdb
+C:\Users\shawk\source\repos\ZombiesMidterm\ZombiesMidterm\obj\Debug\ZombiesMidterm.csproj.AssemblyReference.cache
+C:\Users\shawk\source\repos\ZombiesMidterm\ZombiesMidterm\obj\Debug\ZombiesMidterm.csproj.SuggestedBindingRedirects.cache
+C:\Users\shawk\source\repos\ZombiesMidterm\ZombiesMidterm\obj\Debug\ZombiesMidterm.Form1.resources
+C:\Users\shawk\source\repos\ZombiesMidterm\ZombiesMidterm\obj\Debug\ZombiesMidterm.Properties.Resources.resources
+C:\Users\shawk\source\repos\ZombiesMidterm\ZombiesMidterm\obj\Debug\ZombiesMidterm.csproj.GenerateResource.cache
+C:\Users\shawk\source\repos\ZombiesMidterm\ZombiesMidterm\obj\Debug\ZombiesMidterm.csproj.CoreCompileInputs.cache
+C:\Users\shawk\source\repos\ZombiesMidterm\ZombiesMidterm\obj\Debug\ZombiesMidterm.exe
+C:\Users\shawk\source\repos\ZombiesMidterm\ZombiesMidterm\obj\Debug\ZombiesMidterm.pdb
