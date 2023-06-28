@@ -1,0 +1,12 @@
+C:\Users\shawk\source\repos\NavigationApplication\NavigationApplication\obj\Debug\NavigationApplication.csproj.AssemblyReference.cache
+C:\Users\shawk\source\repos\NavigationApplication\NavigationApplication\obj\Debug\NavigationApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\shawk\source\repos\NavigationApplication\NavigationApplication\obj\Debug\NavigationApplication.Form1.resources
+C:\Users\shawk\source\repos\NavigationApplication\NavigationApplication\obj\Debug\NavigationApplication.Form2.resources
+C:\Users\shawk\source\repos\NavigationApplication\NavigationApplication\obj\Debug\NavigationApplication.Properties.Resources.resources
+C:\Users\shawk\source\repos\NavigationApplication\NavigationApplication\obj\Debug\NavigationApplication.csproj.GenerateResource.cache
+C:\Users\shawk\source\repos\NavigationApplication\NavigationApplication\obj\Debug\NavigationApplication.csproj.CoreCompileInputs.cache
+C:\Users\shawk\source\repos\NavigationApplication\NavigationApplication\bin\Debug\NavigationApplication.exe.config
+C:\Users\shawk\source\repos\NavigationApplication\NavigationApplication\bin\Debug\NavigationApplication.exe
+C:\Users\shawk\source\repos\NavigationApplication\NavigationApplication\bin\Debug\NavigationApplication.pdb
+C:\Users\shawk\source\repos\NavigationApplication\NavigationApplication\obj\Debug\NavigationApplication.exe
+C:\Users\shawk\source\repos\NavigationApplication\NavigationApplication\obj\Debug\NavigationApplication.pdb
