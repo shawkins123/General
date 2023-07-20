@@ -16,3 +16,12 @@ The 'End Game' button can be selected at any time to reset the board and allow n
 Alternatively, once all zombies have been killed, then the 'End Game' button needs to be selected to begin the game
 again.
 
+//----------------------------------------------//
+
+Known Bugs and Defects:
+The program may not function correctly if the graphics file is not loaded.
+
+//----------------------------------------------//
+
+Source Code:
+This program can be opened up in Visual Studios. The language used is C#.
