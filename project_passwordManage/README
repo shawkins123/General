@@ -26,7 +26,7 @@ Additionally, the user will have to create a dedicated file and use that as a si
 //----------------------------------------------//
 
 Source Code:
-This program can be opened up in Visual Studios.
+This program can be opened up in Visual Studios. The language used is C#.
 It requires a connection to a relational SQL database.
 
 //----------------------------------------------//
