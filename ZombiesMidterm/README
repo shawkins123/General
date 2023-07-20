@@ -1,1 +1,18 @@
+Program Concept:
+This program is a simple game meant to test out various software architectural design patterns. Players simulate shooting different kinds of zombies with different kinds of plants.
+
+//----------------------------------------------//
+
+Program Instructions and Layout:
+
+To begin the program, first set the filepath for the images to load, a sample filepath is already loaded but will
+need to be changed accordingly, using the file 'XXX'
+The images will load as a result of the previous action.
+Next, add different kinds of zombie using the Add Zombie button and the corresponding radio button. The zombies
+will populate in the array field. Once the desired number of zombies has been set, select the 'Start Game' button.
+Selecting one of the three plants will determine the amount and type of damage inflicted on the corresponding zombie;
+click the 'Shoot Zombies!' button to deal one attack.
+The 'End Game' button can be selected at any time to reset the board and allow new zombies to be selected.
+Alternatively, once all zombies have been killed, then the 'End Game' button needs to be selected to begin the game
+again.
 
