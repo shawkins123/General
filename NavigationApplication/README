@@ -1,0 +1,43 @@
+Program concept:
+This program is meant to simulate an application on a mobile phone for a visually impaired person to use
+it is a functional prototype and is only meant as a visual demonstration 
+
+//-----------------------------------------------------//
+
+Program instructions and layout:
+start the program, and you will be taken to screen 1
+Screen One contains two sections -
+The left hand side is a representation of a loading screen of the application on the phone
+the right hand side is the developer testing suite 
+Screen One is meant only to load the program - if it cannot gain access to the necessary data
+(i.e. it cannot connect to the phone's GPS unit), then the loading screen will alert the user of
+a failure
+the buttons on this screen allow you to continue or exit the program.
+Once the button has been selected to continue, Screen Two is brought up
+Again, the left hand side represents the screen of the phone and the right hand side is the 
+developer testing suite
+The UI includes: a map, which will give voice directions to its users,
+a button signaling a connection to the GPS/internet is ongoing, and a button to contact emergency services
+users can also state they want to contact emergency services aloud via voice command
+To run through the program, first put the filepath of the images in the text box, then select 'Set File Path'
+The destination is hard-coded in this prototype. 
+Select Confirm destination - the application will verify with the user that their current location is correct
+Select Enter Destination - a destination will be given via voice command
+Select Get Directions - the application will send directions to the user via voice module and a map will be displayed 
+the screen.
+The Progess bar is for developers and indicates the stage the prototype has advanced to
+Select Repeat Directions at any time to hear the latest set of directions to reach the destination
+Select Cancel Directions at any time to cancel the current set of directions.
+Select Emergency Call to notify emergency personnel of a situation. The application pings emergency personnel with 
+your location even if you are unable to speak.
+Select Exit to exit the program.
+
+//-----------------------------------------------------//
+
+Known bugs and defects:
+This is a simplified prototype, as such some information is hard coded. 
+
+//-----------------------------------------------------//
+
+additional documentation
+See the file '' for more information on the scope of this project
