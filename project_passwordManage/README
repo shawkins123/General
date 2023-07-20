@@ -20,10 +20,16 @@ associated with that account.
 //----------------------------------------------//
 
 Known Bugs and Defects:
-This program will not run unless a user modifies the code within first. 
+This program will not run unless a user modifies the source code first. 
+Additionally, the user will have to create a dedicated file and use that as a simulated login function.
+
+//----------------------------------------------//
+
+Source Code:
+This program can be opened up in Visual Studios.
+It requires a connection to a relational SQL database.
 
 //----------------------------------------------//
 
 Additional Resources:
-
-
+See the ProjectManagerPP powerpoint for more information on this project.
