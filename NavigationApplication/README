@@ -19,7 +19,7 @@ developer testing suite
 The UI includes: a map, which will give voice directions to its users,
 a button signaling a connection to the GPS/internet is ongoing, and a button to contact emergency services
 users can also state they want to contact emergency services aloud via voice command
-To run through the program, first put the filepath of the images in the text box, then select 'Set File Path'
+To run through the program, first put the filepath of the images ('finalproj') in the text box, then select 'Set File Path'
 The destination is hard-coded in this prototype. 
 Select Confirm destination - the application will verify with the user that their current location is correct
 Select Enter Destination - a destination will be given via voice command
@@ -40,4 +40,4 @@ This is a simplified prototype, as such some information is hard coded.
 //-----------------------------------------------------//
 
 additional documentation
-See the file '' for more information on the scope of this project
+See the file 'project specification' for more information on the scope of this project
