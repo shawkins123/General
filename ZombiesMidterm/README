@@ -6,7 +6,7 @@ This program is a simple game meant to test out various software architectural d
 Program Instructions and Layout:
 
 To begin the program, first set the filepath for the images to load, a sample filepath is already loaded but will
-need to be changed accordingly, using the file 'XXX'
+need to be changed accordingly, using the file 'Graphics'
 The images will load as a result of the previous action.
 Next, add different kinds of zombie using the Add Zombie button and the corresponding radio button. The zombies
 will populate in the array field. Once the desired number of zombies has been set, select the 'Start Game' button.
