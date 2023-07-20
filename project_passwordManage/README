@@ -1,0 +1,29 @@
+Program Concept:
+This program is meant to serve as a working model of a password manager. It connects to a database and stores all of a user's passwords and their associated programs/applications
+so that the user does not need to compromise security by writing their passwords down, etc.
+This program uses a basic cryptographic scheme for personal familiarization purposes. 
+
+//----------------------------------------------//
+
+Program Instructions and Layout:
+This program is currently not set up to run without code modification first. A potential user will need to set up a database/server along with a text file that lists the pertinent information.
+The following is a description of the functionality when the program is running:
+The first menu asks if a user wants to continue to the program; its function is to serve as a loading/welcoming screen.
+The second menu asks a user to login to their account with a user name and password. It will connect to a database to verify the user. There is an option to retrieve a forgotten password via email,
+and there is an option to add a new user.
+The third menu brings up a screen that displays the database information, to include the program name, the user name, and the associated password. There are options to add, modify, or delete a program;
+the data is encrypted with a basic character-switching scheme. 
+A fourth menu is brought up from the second if a new user selects the pertinent option. This menu allows a user to create their account with a username, email, and password.
+A fifth menu is brought up from the second if the user selects that they forgot their password. The user account is confirmed and an email is sent with their password based on the email
+associated with that account. 
+
+//----------------------------------------------//
+
+Known Bugs and Defects:
+This program will not run unless a user modifies the code within first. 
+
+//----------------------------------------------//
+
+Additional Resources:
+
+
