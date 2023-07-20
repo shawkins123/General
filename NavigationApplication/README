@@ -1,10 +1,10 @@
-Program concept:
+Program Concept:
 This program is meant to simulate an application on a mobile phone for a visually impaired person to use
 it is a functional prototype and is only meant as a visual demonstration 
 
 //-----------------------------------------------------//
 
-Program instructions and layout:
+Program Instructions and Layout:
 start the program, and you will be taken to screen 1
 Screen One contains two sections -
 The left hand side is a representation of a loading screen of the application on the phone
@@ -34,10 +34,15 @@ Select Exit to exit the program.
 
 //-----------------------------------------------------//
 
-Known bugs and defects:
+Known Bugs and Defects:
 This is a simplified prototype, as such some information is hard coded. 
 
 //-----------------------------------------------------//
 
-additional documentation
+Source Code: 
+This program can be opened in Visual Studios. The language used is C#.
+
+//-----------------------------------------------------//
+
+Additional Documentation
 See the file 'project specification' for more information on the scope of this project
